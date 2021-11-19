@@ -1,6 +1,22 @@
-Ol·, esse Projeto foi feito juntamente com a matÈria de LaboratÛrio de Banco de Dados.
-O projeto È uma aplicaÁ„o de um sistema de Vendas, onde complementamos com o Cadastro de Usu·rio, Fornecedores, Funcion·rios e Vendas,
-È um sistema que contem um Login de Entrada com nÌveis de acessos diferentes, È apresentado uma tela de Menu onde vocÍ pode ter acesso
-aos cadastros, consultas, compra de itens, pagamento, detalhes de vendas e histÛrico de vendas e como complemento tem a funcionalidade de
+Ol√°, esse Projeto foi feito juntamente com a mat√©ria de Laborat√≥rio de Banco de Dados.
+O projeto √© uma aplica√ß√£o de um sistema de Vendas, onde complementamos com o Cadastro de Usu√°rio, Fornecedores, Funcion√°rios e Vendas,
+√© um sistema que contem um Login de Entrada com n√≠veis de acessos diferentes, √© apresentado uma tela de Menu onde voc√™ pode ter acesso
+aos cadastros, consultas, compra de itens, pagamento, detalhes de vendas e hist√≥rico de vendas e como complemento tem a funcionalidade de
 fazer um Backup do Banco de Dados.
-Essa È a vers„o inicial do Projeto de Vendas :)
+Essa √© a vers√£o inicial do Projeto de Vendas :)
+
+Segue abaixo Imagens das Funcionalidades e Abas:
+Menu do Usu√°rio:
+![menu](https://user-images.githubusercontent.com/92096918/142568049-8b2844d8-778e-4b21-aa3a-78535036e2b2.png)
+
+Cadastro de Cliente:
+![cadcliente](https://user-images.githubusercontent.com/92096918/142568098-d797816b-58e7-4598-8046-1d9a2c5388ed.png)
+
+Cadastro de Vendas
+![vendas](https://user-images.githubusercontent.com/92096918/142568127-471bdf82-ff25-4c2b-b08d-181eca3997a4.png)
+
+Detalhes da Venda:
+![detalhe](https://user-images.githubusercontent.com/92096918/142568146-b4eaf9c7-3ec6-4849-a743-d4bc77ce474d.png)
+
+Hist√≥rico de Vendas por Data:
+![Screenshot_6](https://user-images.githubusercontent.com/92096918/142568165-18bab240-cd6e-432f-ba1d-009e1c6537a3.png)
