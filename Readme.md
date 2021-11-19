@@ -2,6 +2,7 @@
 
 No projeto foi utilizado as tecnologias: C# e MySQL
 
+
 📑 Projeto
 
 O projeto é uma aplicação de um sistema de Vendas, onde complementamos com o Cadastro de Usuário, Fornecedores, Funcionários e Vendas,
@@ -9,6 +10,7 @@ O projeto é uma aplicação de um sistema de Vendas, onde complementamos com o 
 aos cadastros, consultas, compra de itens, pagamento, detalhes de vendas e histórico de vendas e como complemento tem a funcionalidade de
 fazer um Backup do Banco de Dados.
 E essa é a versão inicial do Projeto de Vendas 😄
+
 
 🖥️ Layout
 
